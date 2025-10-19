@@ -3,53 +3,65 @@
   "last_updated": "2025-10-19",
   "base_url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main",
   "images": {
-    "03_interface_principale/001.webp": {
-      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_interface_principale/001.webp",
-      "hash": "a70bd75e4c0a3a422fb139fa2afacaaf67bd9d590c9cf0f5ef8a04f316e335af",
-      "size": 29734,
-      "format": "WEBP"
+    "03_main_interface/001.png": {
+      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_main_interface/001.png",
+      "hash": "4b455d807c750c52bbb3e82939cd12de860507674270a2defd79216d706128b5",
+      "size": 41374,
+      "format": "PNG"
     },
-    "03_interface_principale/002.webp": {
-      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_interface_principale/002.webp",
-      "hash": "b0036d067ad444e313f49ba37c9bef6837af4582ff6616438e2ce7aa20d9f397",
-      "size": 11692,
-      "format": "WEBP"
+    "03_main_interface/002.png": {
+      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_main_interface/002.png",
+      "hash": "4e9c2e2f390b324b629eb4f0fe28edc29786169fd37680deb03e75d8e89b1abd",
+      "size": 42683,
+      "format": "PNG"
     },
-    "03_interface_principale/003.webp": {
-      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_interface_principale/003.webp",
-      "hash": "6a6f0bb788fb23f07eb9e4cebe3507c0d8f0c0a05b5537ed37f277839c0025e8",
-      "size": 11194,
-      "format": "WEBP"
+    "03_main_interface/003.png": {
+      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_main_interface/003.png",
+      "hash": "00a164e10c9a2d14312a1e8e19c0f7ef49c2db4be888d6805de52fd99b4a2dac",
+      "size": 5838,
+      "format": "PNG"
     },
-    "03_interface_principale/004-1.webp": {
-      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_interface_principale/004-1.webp",
-      "hash": "ca7a170120eb6fbbf977605da140a698d2c78f5e8b887643f19d34d7eef284d1",
-      "size": 3216,
-      "format": "WEBP"
+    "03_main_interface/004.png": {
+      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_main_interface/004.png",
+      "hash": "d077e339d76641a831157cc3b4921672665c0e3cbac213183f05d2ecb9f1f189",
+      "size": 10484,
+      "format": "PNG"
     },
-    "03_interface_principale/004-2.webp": {
-      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_interface_principale/004-2.webp",
-      "hash": "5440c3ceecea074e46e759bc18b3712e1c7ffa0da7b6c9a6fd8055d7af3debbd",
-      "size": 3808,
-      "format": "WEBP"
+    "03_main_interface/005.png": {
+      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_main_interface/005.png",
+      "hash": "1abe48ee1a8f16390909ed7879ee24ee7556cd47785443cb9465395ae241a407",
+      "size": 15653,
+      "format": "PNG"
     },
-    "03_interface_principale/004-3.webp": {
-      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_interface_principale/004-3.webp",
-      "hash": "d6fcbbd0cc4a0d5a85418bee5d4841c6f9cdb9dd26b4c2272a4a5b52bf31cfcc",
-      "size": 5348,
-      "format": "WEBP"
+    "03_main_interface/006.png": {
+      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_main_interface/006.png",
+      "hash": "5981ab9f22c3a9d80c3539da1f1ad901e2ef685c03533d9191f8ce7675ed7d37",
+      "size": 13741,
+      "format": "PNG"
     },
-    "03_interface_principale/005.webp": {
-      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_interface_principale/005.webp",
-      "hash": "ed76cda6a9eaa54bf7fc1f59438d5942ecb20d3e0a2e601cf32c6e9e5caeca86",
-      "size": 14252,
-      "format": "WEBP"
+    "03_main_interface/007.png": {
+      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_main_interface/007.png",
+      "hash": "c03d71b7fc7e16ef64aa5b6dffaf19d7f566a44da05f45ede80886691f095f58",
+      "size": 4974,
+      "format": "PNG"
     },
-    "03_interface_principale/006.webp": {
-      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_interface_principale/006.webp",
-      "hash": "fc2c57ce89627e3d9647c500e2390e221b6da708545f475acbdc90b1fced52f4",
-      "size": 3248,
-      "format": "WEBP"
+    "03_main_interface/008.png": {
+      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_main_interface/008.png",
+      "hash": "d46f0d60ccec90259a5b7db24b85ce372ea1d95d220d36c971c45aec6c63b66d",
+      "size": 5970,
+      "format": "PNG"
+    },
+    "03_main_interface/009.png": {
+      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_main_interface/009.png",
+      "hash": "eb9deb8f944cd36e6b8158d5a7939b86b48fb2988edc133d66b7295c90ec5328",
+      "size": 6815,
+      "format": "PNG"
+    },
+    "03_main_interface/010.png": {
+      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/03_main_interface/010.png",
+      "hash": "1d321ab3e5dd051f4d0372ccf3427d9381bda977d45e860a4f9ab7008f32dc78",
+      "size": 13847,
+      "format": "PNG"
     },
     "04_generator/001.png": {
       "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/04_generator/001.png",
@@ -527,12 +539,12 @@
     }
   },
   "stats": {
-    "total_images": 87,
-    "total_size": 1366331,
+    "total_images": 89,
+    "total_size": 1445218,
     "formats": {
-      "WEBP": 10,
-      "PNG": 75,
-      "GIF": 2
+      "PNG": 85,
+      "GIF": 2,
+      "WEBP": 2
     }
   }
 }
