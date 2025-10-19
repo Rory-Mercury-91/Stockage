@@ -285,6 +285,12 @@
       "size": 2547,
       "format": "PNG"
     },
+    "05_tools/coherence/006.png": {
+      "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/05_tools/coherence/006.png",
+      "hash": "a3e981610bcdf66c142426e947447b10a2a6c1d932b4b1a2e10e90be4dfd5c18",
+      "size": 62308,
+      "format": "PNG"
+    },
     "05_tools/editor/001.png": {
       "url": "https://raw.githubusercontent.com/Rory-Mercury-91/Stockage/main/tutorial_images/05_tools/editor/001.png",
       "hash": "85647db1176c7acb35097126525047e9498769a087df66ef409791e40ff8e6a5",
@@ -521,11 +527,11 @@
     }
   },
   "stats": {
-    "total_images": 86,
-    "total_size": 1304023,
+    "total_images": 87,
+    "total_size": 1366331,
     "formats": {
       "WEBP": 10,
-      "PNG": 74,
+      "PNG": 75,
       "GIF": 2
     }
   }
